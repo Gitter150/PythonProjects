@@ -41,7 +41,7 @@ def startGame(choices, win_condition, wins=0, losses=0):
       print(f"No. Of Wins: {wins} | No. Of Losses: {losses}")
    
    print(f"\nFinal Scores:\nWins: {wins} | Losses: {losses}")
-   if wins! = losses:
+   if not wins == losses:
       print("You Won The Game!" if wins>losses else "You Lost The Game!")
    else:
       print("The match is a draw!")         
