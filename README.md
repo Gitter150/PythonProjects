@@ -1,0 +1,3 @@
+- These are my simple python programs
+- I have wrote most of these as my hobbies
+- Iam looking forward to extend this repository by adding more files
